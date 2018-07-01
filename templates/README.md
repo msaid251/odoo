@@ -22,7 +22,7 @@ This templates can help you to develop `Odoo` modules faster and with no Typing 
 
 Enjoy your time developing great Odoo Modules :)
 
-thank you flectra for this template
+i edited the template of flectra and i added some changes the improve this teplate 
 
 Credits
 
