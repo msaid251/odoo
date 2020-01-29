@@ -3,7 +3,6 @@
 This templates can help you to develop `Odoo` modules faster and with no Typing Errors.
 
 
-
 ### Manual installation
 
 1. Download `Odoo.xml` file: [click here](https://github.com/msaid251/odoo.git)
