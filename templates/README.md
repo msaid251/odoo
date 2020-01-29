@@ -30,4 +30,5 @@ Part of code based on mohamed magdy template https://github.com/mohamedmagdy/odo
 
 ## User Guide
 
-Here is a little video that's show how you can use this template : https://youtu.be/vytzDo33qdM
+Here is a little video that's show how you can use this template :
+        https://youtu.be/vytzDo33qdM
